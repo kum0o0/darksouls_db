@@ -1,0 +1,11 @@
+E:\Mine\pythonProject\pythonProject\.venv\Scripts\streamlit run E:\kursach\app.py
+
+
+py -m streamlit run E:\kursach\app.py
+
+radmin:
+darksouls-db
+000_darksouls-db
+
+ссылка:
+http://26.230.30.216:8501
