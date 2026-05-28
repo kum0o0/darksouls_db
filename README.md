@@ -1,2 +1,2 @@
 # darksouls_db
-darksouls db as kursach
+run settings for other devices in radmin.txt
